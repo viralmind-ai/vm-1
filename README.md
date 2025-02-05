@@ -11,8 +11,10 @@ Pre-trained tokenizer model available at: [physical-intelligence/fast](https://h
 
 Tokenization visualization: (1s@50hz)
 - Before tokenization
+
 ![Before tokenization](./trajectory_before_tokenization.gif)
 - After tokenization
+
 ![After tokenization](./trajectory_after_tokenization.gif)
 
 ### GRPO Training
