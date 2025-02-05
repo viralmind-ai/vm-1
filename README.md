@@ -1,5 +1,9 @@
 # VM-1: Vision-Language-Action Computer Use Model
 
+> 🚧 Work in progress - coming soon
+> 
+> We're currently building the data collection pipeline. Check back later! https://github.com/viralmind-ai/gym-desktop
+
 VM-1 is a research project focused on developing a vision-language-action model for computer interaction. The model aims to understand visual input, natural language, and generate appropriate computer actions.
 
 ## Components
